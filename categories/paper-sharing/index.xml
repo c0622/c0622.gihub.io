@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper Sharing on Alex&#39;s blog</title>
+    <link>https://fingerk28.github.io/categories/paper-sharing/</link>
+    <description>Recent content in Paper Sharing on Alex&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 05 Aug 2021 11:00:00 +0800</lastBuildDate><atom:link href="https://fingerk28.github.io/categories/paper-sharing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper Sharing: Seeing the Unseen</title>
+      <link>https://fingerk28.github.io/blog/post-2/</link>
+      <pubDate>Thu, 05 Aug 2021 11:00:00 +0800</pubDate>
+      
+      <guid>https://fingerk28.github.io/blog/post-2/</guid>
+      <description>Seeing the Unseen:
+Wifi-based 2D Human Pose Estimation via Dilated Evolving Attentive Spatial-Frequency Network Yi Chung Chen, Zhi Kai Huang, Hong Han Shuai, Wen Huang Cheng</description>
+    </item>
+    
+    <item>
+      <title>Paper Sharing: Stop Hiding Behind Windshield</title>
+      <link>https://fingerk28.github.io/blog/post-1/</link>
+      <pubDate>Wed, 04 Aug 2021 23:00:00 +0800</pubDate>
+      
+      <guid>https://fingerk28.github.io/blog/post-1/</guid>
+      <description>ACM MultiMedia Asia 2018 Stop Hiding Behind Windshield:
+A Windshield Image Enhancer Based on a Two-way Generative Adversarial Network Chi Rung Chang, Kuan Yu Lung, Yi Chung Chen, Zhi Kai Huang, Hong Han Shuai, Wen Huang Cheng</description>
+    </item>
+    
+  </channel>
+</rss>
